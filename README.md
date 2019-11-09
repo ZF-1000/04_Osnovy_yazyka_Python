@@ -1,1 +1,0 @@
-# Osnovy_yazyka_Python
